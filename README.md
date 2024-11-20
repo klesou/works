@@ -24,10 +24,22 @@ Oferecemos soluções modulares para médias e grandes empresas, permitindo a pe
 Conheça algumas empresas que confiaram na Anewcon para transformar suas ideias em realidade:
 
 ### [Dafratec](https://dafratec.com)
-Fornecedora de equipamentos analíticos e soluções laboratoriais. Desenvolvemos o site e sistemas de gestão customizados para atender às demandas específicas do setor.
+Fornecedora de equipamentos analíticos e soluções laboratoriais. Desenvolvemos o site e sistemas de gestão customizados para atender às demandas específicas do setor.  
+
+Algumas das soluções destacadas incluem:  
+- [Contador de Partículas](https://dafratec.com/contador-de-particulas) – Equipamentos de alta precisão para monitoramento e controle de partículas.  
+- [Biorreatores](https://dafratec.com/bioreatores-biofermentadores) – Tecnologias avançadas para processos biotecnológicos e industriais.  
+
 
 ### [Codistoke](https://codistoke.com.br)
-Especializada em móveis corporativos, oferece soluções inovadoras para escritórios. Anewcon criou um site funcional e visualmente atraente, alinhado à identidade da empresa.
+Especializada em móveis corporativos, oferece soluções inovadoras para escritórios. Anewcon criou um site funcional e visualmente atraente, alinhado à identidade da empresa.  
+
+Confira algumas das categorias de produtos oferecidos:  
+- [Cadeira Presidente](https://codistoke.com.br/loja/product-category/cadeiras-de-escritorio/cadeira-presidente/) – Elegância e conforto para lideranças.  
+- [Cadeira de Escritório](https://codistoke.com.br/loja/product-category/cadeiras-de-escritorio/) – Opções ergonômicas para o dia a dia no trabalho.  
+- [Cadeira Gamer](https://codistoke.com.br/loja/product-category/cadeiras-de-escritorio/cadeira-gamer/) – Estilo e suporte ideal para longas sessões de jogo.  
+- [Estação de Trabalho](https://codistoke.com.br/loja/product-category/estacao-de-trabalho/) – Soluções completas para ambientes corporativos organizados e produtivos.  
+
 
 ### [Acelera Profissional](https://aceleraprofissional.com.br)
 Plataforma de capacitação profissional e consultoria. Projetamos um sistema de gestão completo para otimizar processos internos e a experiência do usuário.
@@ -42,7 +54,7 @@ Consultoria em gestão estratégica e treinamentos. Criamos ferramentas web para
 
 ## Entre em contato
 
-Interessado em nossas soluções? Envie-nos um e-mail em **contato@anewcon.com** ou visite nosso [site oficial](https://anewcon.com).
+Interessado em nossas soluções? Envie-nos um e-mail em **contato@anewcon.com** ou visite nosso [site oficial](https://anewcon.com.br).
 
 ---
 
